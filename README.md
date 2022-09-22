@@ -9,7 +9,7 @@ Convert HTML documents to docx format.
 ## Installing
 
 ```
-npm install html-docx-js-typescript --save-dev
+npm install html-docx-js-typescript-papersize-thenn --save-dev
 ```
 
 ## Usage
